@@ -1,0 +1,16 @@
+C:\Users\justi\Desktop\AbstractClassInClass\bin\Debug\net5.0\AbstractClassInClass.exe
+C:\Users\justi\Desktop\AbstractClassInClass\bin\Debug\net5.0\AbstractClassInClass.deps.json
+C:\Users\justi\Desktop\AbstractClassInClass\bin\Debug\net5.0\AbstractClassInClass.runtimeconfig.json
+C:\Users\justi\Desktop\AbstractClassInClass\bin\Debug\net5.0\AbstractClassInClass.runtimeconfig.dev.json
+C:\Users\justi\Desktop\AbstractClassInClass\bin\Debug\net5.0\AbstractClassInClass.dll
+C:\Users\justi\Desktop\AbstractClassInClass\bin\Debug\net5.0\ref\AbstractClassInClass.dll
+C:\Users\justi\Desktop\AbstractClassInClass\bin\Debug\net5.0\AbstractClassInClass.pdb
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\AbstractClassInClass.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\AbstractClassInClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\AbstractClassInClass.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\AbstractClassInClass.AssemblyInfo.cs
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\AbstractClassInClass.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\AbstractClassInClass.dll
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\ref\AbstractClassInClass.dll
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\AbstractClassInClass.pdb
+C:\Users\justi\Desktop\AbstractClassInClass\obj\Debug\net5.0\AbstractClassInClass.genruntimeconfig.cache
