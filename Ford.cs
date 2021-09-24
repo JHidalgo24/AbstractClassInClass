@@ -12,7 +12,7 @@ namespace AbstractClassInClass
 
         public override void GasType()
         {
-            System.Console.WriteLine("The car runs on regular gas (Not Diesel)");
+            System.Console.WriteLine("The car runs on regular gasoline (Not Diesel)");
         }
 
         public override void Start(){
